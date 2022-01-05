@@ -1,2 +1,2 @@
 # shopping-cart
- nodejs with mongodb
+ nodejs
